@@ -5,8 +5,8 @@ function Header() {
   return (
     <div >
         <header className="header">
-        <h2>Eğitim Yolu</h2>
-        <p>İster kurum binamızda ister online olarak eğitim programlarımızı seçebilirsiniz</p>
+        <h2>Education Pathway</h2>
+        <p>You can choose our training programs at our training facilities or online</p>
        
         </header>      
     </div>

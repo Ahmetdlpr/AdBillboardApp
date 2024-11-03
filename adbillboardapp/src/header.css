@@ -10,18 +10,31 @@
     box-shadow: 10px 10px 10px 10px #2c2c2c;
     position: relative;
     text-align: center;
-    padding-top:1em;
+    padding-top:0.7em;
 }
 .header h2 
 {
     color:#FFFFFF;
+    background-color: cadetblue;
+    box-shadow: 10px 10px 10px 10px #2c2c2c;
+    padding:0.5em;
+    border:0.2em;
     font-weight: bold;
     position:absolute;
     left:5%;
-    top:5%;
+    top:1%;
+ border-radius:0.2em;
+
 }
 .header p 
 {
  font-weight: bolder;
+ background-color: cadetblue;
+ box-shadow: 10px 10px 10px 10px #2c2c2c;
+ width:30em;
  font-size:1em;
+ margin-bottom:em;
+ margin-left:28em;
+ border-radius:0.2em;
+
 }
