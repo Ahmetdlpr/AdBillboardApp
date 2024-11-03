@@ -1,0 +1,27 @@
+.header
+{
+    width:90%;
+    height:90px;
+    background-color: cadetblue;
+    border:none;
+    border-top-left-radius: 0.2em;
+    border-top-right-radius:0.2em;
+    margin-left:4em;
+    box-shadow: 10px 10px 10px 10px #2c2c2c;
+    position: relative;
+    text-align: center;
+    padding-top:1em;
+}
+.header h2 
+{
+    color:#FFFFFF;
+    font-weight: bold;
+    position:absolute;
+    left:5%;
+    top:5%;
+}
+.header p 
+{
+ font-weight: bolder;
+ font-size:1em;
+}
